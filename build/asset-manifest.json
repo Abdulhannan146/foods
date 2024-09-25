@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/foods/static/css/main.2153129f.css",
+    "main.js": "/foods/static/js/main.25fa9cad.js",
+    "static/media/profile-2.png": "/foods/static/media/profile-2.f65bdffc971c8878d50a.png",
+    "static/media/profile-4.jpeg": "/foods/static/media/profile-4.14a94af7bc19e74aaa2f.jpeg",
+    "static/media/profile-3.jpeg": "/foods/static/media/profile-3.bd1f2a73e5321d3350e0.jpeg",
+    "static/media/profile-6.jpeg": "/foods/static/media/profile-6.72f781cb3632d1197181.jpeg",
+    "static/media/profile-5.jpeg": "/foods/static/media/profile-5.d52a7b9e26a8cecef2a1.jpeg",
+    "static/media/alpha-food-logo.png": "/foods/static/media/alpha-food-logo.f7950d3292a280acd620.png",
+    "static/media/profile-1.png": "/foods/static/media/profile-1.f7950d3292a280acd620.png",
+    "index.html": "/foods/index.html",
+    "main.2153129f.css.map": "/foods/static/css/main.2153129f.css.map",
+    "main.25fa9cad.js.map": "/foods/static/js/main.25fa9cad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2153129f.css",
+    "static/js/main.25fa9cad.js"
+  ]
+}
